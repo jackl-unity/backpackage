@@ -1,7 +1,7 @@
 {
     "name": "com.unity.badpackage",
     "displayName": "Test Package Example",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "unity": "2018.3",
     "description": "First Version",
     "keywords": [
